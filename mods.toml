@@ -1,0 +1,17 @@
+modLoader="javafml"
+loaderVersion="[4,)"
+license="MIT"
+
+
+[[mods]]
+modId="mc-improvements"
+version="1.0.0"
+displayName="Minecraft Improvements"
+description='Made by Kibou'
+Server-only QoL rules:
+- Goat jump cap
+- Faster lava dripstone farms
+- Faster leaf decay after tree chopping
+- Longer days
+- 50% sleep rule
+'''
