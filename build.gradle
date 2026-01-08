@@ -1,0 +1,23 @@
+plugins {
+id 'java'
+id 'net.neoforged.moddev' version '1.0.21'
+}
+
+
+java {
+toolchain.languageVersion = JavaLanguageVersion.of(21)
+}
+
+
+neoForge {
+version = "21.1.0"
+}
+
+
+group = 'de.example'
+version = '1.0.0'
+
+
+repositories {
+mavenCentral()
+}
